@@ -50,6 +50,15 @@
 - A driver is able to See the time it will take to reach the destination
 - A driver is able to see the route to the next stop
 
+## 💻 App Mockups 
+![image](https://github.com/EddyShimwa/ride-share-tracking/assets/88631022/d486ff15-6116-47fc-a295-380b6ce8c464)
+![image](https://github.com/EddyShimwa/ride-share-tracking/assets/88631022/12fea1f7-372b-4499-b212-e384bc0dcf6a)
+![image](https://github.com/EddyShimwa/ride-share-tracking/assets/88631022/3f2a8827-db6a-4965-9505-10054adf4716)
+![image](https://github.com/EddyShimwa/ride-share-tracking/assets/88631022/67ad3715-e7ad-42de-b82d-3b9a68201779)
+![mobile](https://github.com/EddyShimwa/ride-share-tracking/assets/88631022/1ca093e9-2b3b-4ae2-9543-e87737bf2ca1)
+![mobile (1)](https://github.com/EddyShimwa/ride-share-tracking/assets/88631022/c2fbce35-4078-4ac0-9359-d9345c2c095c)
+
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
