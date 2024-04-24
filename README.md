@@ -1,10 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
-
-  <h3><b>Ride-share-tracking</b></h3>
-
+  <h1><b>Ride-share-Tracking</b></h1>
 </div>
 
 # 📗 Table of Contents
@@ -15,22 +12,17 @@
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
     - [Ride-share-tracking](#Ride-share-tracking-1)
-    - [API Documentation ](#api-documentation-)
-    - [Kanban board ](#kanban-board-)
-  - [💻 Getting Started ](#-getting-started-)
+  - [💻 Getting Started](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
     - [Run tests](#run-tests)
-  - [⚙️ UML DIAGRAM](#️-uml-diagram)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [📝 License ](#-license-)
-
 
 # 📖 Ride-share-tracking <a name="about-project"></a>
 
@@ -43,24 +35,20 @@
 <details>
   <summary>Google API</summary>
   <ul>
-    <li>Google Maps Api</a></li>
+    <li>Google Maps Api</li>
+    <li>React.js</li>
+    <li>Jsx</li>
   </ul>
-
 </details>
 
-
-
 ### Key Features <a name="key-features"></a>
+
 - Geolocation
 - Zoom in and out
 - A driver is able to See distance between you and the next Stop
 - A driver is able to see See the time it will take to reach the next stop
 - A driver is able to See the time it will take to reach the destination
-
-Ride-share-tracking<a name="frontend"></a>
-
-Click [Here](https://github.com/EddyShimwa/ride-share-tracking) to access the frontend app that was built with react and redux toolkit
-
+- A driver is able to see the route to the next stop
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -70,42 +58,63 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+```sh
+ node v18.0.0 or Higher
+```
+
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```sh
+  git clone https://github.com/EddyShimwa/ride-share-tracking.git
+```
 
-  git clone https://github.com/EddyShimwa/Ride-share-tracking.git
-   cd Ride-share-tracking
+### Go to the project directory
+
+``` sh
+  cd ride-share-tracking
+```
+
+### Switch to develop branch
+
+```sh
+  git checkout develop
 ```
 
 ```sh
-  clone the repository
+  git pull origin develop
+```
+
+### Add environment variables
+
+```sh
+  add the .env file in the root directory
 ```
 
 ```sh
-  cd into the project directory
+  add the following variables in the .env file
+  VITE_REACT_APP_GOOGLE_MAPS_API_KEY=<YOUR_GOOGLE_MAPS_API_KEY>
 ```
+### Install dependencies
 
 ```sh
-  run npm install
+  RUN npm install
 ```
+
+### run the project
 
 ```sh
-  run npm run dev
+ RUN npm run dev
 ```
+### <span style="color:green">N.B :</span> You need to have a Google API Key to run this project. I didn't include mine in the project for the sake of security.
 
-N.B : You need to have a google api key to run this project i didn't include mine in the project
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 **SHIMWA Pray Eddy**
 
 - GitHub: [EddyShimwa](https://github.com/EddyShimwa)
-- Twitter: [Eddy](https://twitter.com/eddy56388406)
 - LinkedIn: [Pray Eddy SHIMWA](https://www.linkedin.com/in/eddy-pray-shimwa/)
 
 <!-- FUTURE FEATURES -->
@@ -114,7 +123,7 @@ N.B : You need to have a google api key to run this project i didn't include min
 - [ ] **Updating car details**
 - [ ] **Better user interface**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTING -->
 
@@ -124,7 +133,7 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/EddyShimwa/ride-share-tracking/issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- SUPPORT -->
 
@@ -133,15 +142,7 @@ Feel free to check the [issues page](https://github.com/EddyShimwa/ride-share-tr
 
 If you like this project star this repository
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
