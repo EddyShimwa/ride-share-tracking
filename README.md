@@ -96,6 +96,7 @@ Clone this repository to your desired folder:
   run npm run dev
 ```
 
+N.B : You need to have a google api key to run this project i didn't include mine in the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
