@@ -53,6 +53,8 @@
 ## 💻 App Mockups 
 ![image](https://github.com/EddyShimwa/ride-share-tracking/assets/88631022/d486ff15-6116-47fc-a295-380b6ce8c464)
 ![image](https://github.com/EddyShimwa/ride-share-tracking/assets/88631022/12fea1f7-372b-4499-b212-e384bc0dcf6a)
+![image](https://github.com/EddyShimwa/ride-share-tracking/assets/88631022/32a458a7-89c3-49e2-8f64-96528edee865)
+
 ![image](https://github.com/EddyShimwa/ride-share-tracking/assets/88631022/3f2a8827-db6a-4965-9505-10054adf4716)
 ![image](https://github.com/EddyShimwa/ride-share-tracking/assets/88631022/67ad3715-e7ad-42de-b82d-3b9a68201779)
 ![mobile](https://github.com/EddyShimwa/ride-share-tracking/assets/88631022/1ca093e9-2b3b-4ae2-9543-e87737bf2ca1)
