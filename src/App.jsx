@@ -17,9 +17,9 @@ const App = () => {
     );
   };
 
-  // Update driver's location every 10 seconds
+  // Update driver's location every second
   useEffect(() => {
-    const interval = setInterval(updateDriverLocation, 10000);
+    const interval = setInterval(updateDriverLocation, 1000);
     return () => clearInterval(interval);
   }, []);
 
